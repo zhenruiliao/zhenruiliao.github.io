@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Zhenrui Liao"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "MD/PhD candidate in Neurobiology at Columbia University"
   location         : "New York, NY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=zhenrui+liao"
+  googlescholar    : "https://scholar.google.com/citations?user=Y-VXa8sAAAAJ&hl=en&authuser=3"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
