@@ -1,5 +1,5 @@
 ---
-title: "Hippocampal adult-born granule cells drive network activity in a mouse model of chronic temporal lobe epilepsy"
+title: "Maximally selective single-cell target for circuit control in epilepsy models"
 collection: publications
 permalink: /publication/2021-06-30-maximally-selective-single
 excerpt: ''
