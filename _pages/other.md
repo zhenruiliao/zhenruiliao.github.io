@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /other/
 title: "Other"
 excerpt: "Miscellaneous other details"
 author_profile: true
