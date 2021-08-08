@@ -1,5 +1,5 @@
 ---
-title: "First-year Projects in Electrical & Electronics Engineering"
+title: "Professional Engineering"
 collection: teaching
 type: "Undergraduate course, Teaching Assistant + Project Mentor"
 permalink: /teaching/2015-fall-eee
