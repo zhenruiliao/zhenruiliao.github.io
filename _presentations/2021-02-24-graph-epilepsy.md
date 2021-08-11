@@ -7,5 +7,5 @@ venue: "COSYNE"
 date: 2021-02-24
 location: "virtual"
 ---
-
+Authors: <b>Liao Z</b>, Losonczy A, Papadimitriou C
 [Talk recording](https://www.youtube.com/watch?v=8w8l6aHWt4k)
