@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 ---
@@ -11,6 +11,14 @@ author_profile: true
 
 {% endif %}
 
+Talks
+=====
 {% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+Presentations
+=====
+{% for post in site.presentations reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
