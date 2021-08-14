@@ -13,7 +13,7 @@ main:
 #     url: /portfolio/
     
   - title: "CV"
-    url: /files/Zhenrui_Liao_CV.pdf
+    url: /cv/
     
   - title: "Other"
     url: /other/
