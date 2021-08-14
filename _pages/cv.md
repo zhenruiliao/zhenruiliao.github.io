@@ -5,9 +5,10 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to: /files/Zhenrui_Liao_CV.pdf
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Education
 ======
@@ -15,7 +16,7 @@ Education
 * M.S. in Electrical Engineering (conc. Systems Biology & Neuroengineering), Columbia University, 2017
 * Ph.D in Neurobiology and Behavior, Columbia University (ongoing)
 * M.D., Columbia University College of Physicians and Surgeons, 2024 (expected)
-
+ -->
 <!-- Work experience
 ======
 * Summer 2015: Research Assistant
