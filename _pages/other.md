@@ -25,7 +25,7 @@ Healthcare Policy
 -------
 * AMA MSS Resolution 10 (Interim 2019): Promoting Early Access to Diabetes Care to Reduce the Incidence of End-Stage Renal Disease
   * Primary author
-  * Result: Referred for study by AMA MSS Policy Committee
+  * Result: Recommended for study by AMA MSS Policy Committee
 * AMA MSS Resolution 84 (Interim 2019): 
   * Delivered Region 7's testimony in support
   * Result: Adopted by AMA MSS
