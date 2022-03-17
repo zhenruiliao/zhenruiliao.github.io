@@ -10,7 +10,7 @@ redirect_from:
 
 Service
 -------
-* Columbia COVID-19 Service Corps: Volunteer Vaccinator (2020-2021)
+* Columbia COVID-19 Service Corps: COVID-19 Vaccinator (2020-2021)
 * Columbia MD-PhD Advisory Committee (2017-2023)
 
 Professional Society Memberships
@@ -37,6 +37,3 @@ Programming languages
 Miscellaneous Turing-complete languages
 -------
 * English (native), Mandarin Chinese (native), French, Spanish, German, Portuguese, Latin (rusty)
-
-
-
